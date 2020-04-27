@@ -1,0 +1,15 @@
+Relacionamentos do Banco de dados
+
+Entidades:
+- ONG
+- Casos(Incident)
+
+Funcionalidades:
+- Login de ONG
+- Logout de ONG
+- Cadastro de ONG
+- Cadastrar novos Casos
+- Deletar casos
+- Listar casos específicos de uma ONG
+- Listar todos os casos
+- Entrar em contat com a ONG
